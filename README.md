@@ -18,7 +18,4 @@ Para suprir isso achei uns cursos na página da [Embarcados](https://cursos.emba
 
 # 3 Anotações
 
-# 3.1. Aula 1.1 - História do IoT
-
-Link: https://cursos.embarcados.com.br/ead/resource/2030/
-
+Anotações de cada aula estão localizadas na pasta `aulas/`.
